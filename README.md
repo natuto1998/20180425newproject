@@ -11,12 +11,12 @@ __korakora__
 
 ---
 
-'hogehoge'
+`hogehoge`
 
-*　list1
-*　list2
-*　list3
+* List1
+* List2
+* List3
 
->　引用
->　引用
->　引用
+> 引用
+> 引用
+> 引用
